@@ -7,10 +7,10 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 
 Tools used :
 Language: Python
-
 Module used: Tkinter
-
 IDE: VS Code
+
+
 
 Creating a GUI application using Tkinter is an easy task. All you need to do is perform the following steps −
 
