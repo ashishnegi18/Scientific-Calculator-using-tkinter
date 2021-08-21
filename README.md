@@ -6,8 +6,11 @@ A scientific calculator is a type of electronic calculator, usually but not alwa
 Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
 Tools used :
+
 Language: Python
+
 Module used: Tkinter
+
 IDE: VS Code
 
 
